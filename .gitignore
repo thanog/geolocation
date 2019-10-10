@@ -9,3 +9,6 @@ npm-debug.log
 
 # Nuxt generate
 dist
+
+#OS Generated file
+.DS_Store
