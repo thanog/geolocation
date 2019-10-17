@@ -2,9 +2,6 @@
   <div>
     <section class="container">
       <h1>Home</h1>
-      <p class="subheading">The Homepage.</p>
-      <!-- <textarea v-model="test"></textarea> -->
-      <!-- <p>{{test}}</p> -->
       <UserLocation />
     </section>
   </div>
